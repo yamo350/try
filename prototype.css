@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.protoLogo{
+    width: 100px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+}
+.protoSc{
+     width: 200px;
+}
+.details{
+    width: 70px;
+    margin-left:90px ;
+}
+
+.bodyCover{
+    display: flex;
+    justify-content: center;
+}
+.form-body{
+    display: grid;
+    margin-top: 60px;
+    text-align: center;
+}
+.the-first-text{
+   color:#663399;
+   font-size: 7px;
+   
+   font-weight: 800;
+}
+input,button,label{
+    margin-bottom: 5px;
+}
+.long-bar-text{
+   width:250px;
+   padding-top: 4px;
+   padding-bottom: 4px;
+   background-color: #663399;
+   color: white;
+   font-size: 10px;
+   border-radius: 4px;
+
+}
+.student-number{
+   font-weight:700;
+   font-size: 16px;
+
+}
+.input-student-number{
+    width: 140px;
+    height: 24px;
+    margin-left: 54px;
+    border-color: #999999;
+    border:inset 1.5px;
+    border-radius: 3px;
+    font-size: 15px;
+    
+    
+}
+
+
+.student-number-text{
+    font-size: 10px;
+}
+.input-password{
+    width: 60px;
+    height: 13px;
+    margin-left: 94px;
+    border-color: #999999;
+    border:inset 1.5px;
+    border-radius: 3px;
+    border: solid 3px;
+    border-color: #0066CC;
+    font-size: 15px;
+}
+.student-number,button,.long-bar-text,.form-body,.Sponsor-text,.Login-button{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.Sponsor-text{
+    background-color:whitesmoke ;
+    font-size: 12px;
+    color: #0066CC;
+    padding: 4px 10px;
+    border-radius: 4px;
+    width: 190px;
+    margin-left: 20px;
+}
+.input-student-number:focus ,.input-student-number:hover ,.input-password:focus,.input-password:hover{
+    outline: none;
+    border-color: lightseagreen;
+    
+}
+.Notices{
+    margin-top: 10px;
+}
+button{
+    width: 70px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    margin-left: 87px;
+    padding: 4px 4px ;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.Login-button{
+    font-size: 17px;
+    margin-left: 94px;
+    padding: 6px 50px 6px 15px;
+}
+.instruction{
+    font-weight: 900;
+    font-size: 6px;
+}
