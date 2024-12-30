@@ -33,7 +33,7 @@ body{
     text-align: center;
 }
 .the-first-text{
-   color:#4527A0;
+   color:#554A93;
    font-size: 7px;
    margin-top: -10px;
    font-weight: 800;
@@ -45,7 +45,7 @@ input,button,label{
    width:350px;
    padding-top: 2px;
    padding-bottom: 2px;
-   background-color: #4527A0;
+   background-color: #554A93;
    color: white;
    font-size: 9px;
    border-radius: 4px;
