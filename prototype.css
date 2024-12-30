@@ -7,12 +7,13 @@ body{
     background-color: white;
 }
 .protoLogo{
-    width: 120px;
+    width: 130px;
     margin-left: 120px;
     margin-bottom: 10px;
     border: solid 1px #999999;
     border-top-color: #666666;
     border-left-color: #666666;
+    
 }
 .protoSc{
      width: 230px;
@@ -44,7 +45,8 @@ input,button,label{
    width:350px;
    padding-top: 2px;
    padding-bottom: 2px;
-   background-color: #313178;
+   /*background-color: #313178;*/
+   background-color: #42297d;
    color: white;
    font-size: 9px;
    border-radius: 4px;
@@ -60,7 +62,7 @@ input,button,label{
     width: 130px;
     height: 24px;
     margin-left: 104px;
-    border-color: #999999;
+    border-color: #CCCCCC;
     border:inset 1px;
     border-radius: 3px;
     font-size: 15px;
