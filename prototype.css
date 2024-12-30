@@ -91,7 +91,7 @@ input,button,label{
 }
 .input-student-number:focus ,.input-student-number:hover ,.input-password:focus,.input-password:hover{
     outline: none;
-    border-color: lightseagreen;
+    border-color: #0066CC;
     
 }
 .Notices{
