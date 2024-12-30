@@ -14,9 +14,17 @@ window.toPageN = function toPageN(){
      localStorage.removeItem('number');
      studentNumber = document.querySelector('#js-input').value;
      localStorage.setItem('number',JSON.stringify(studentNumber));
-     var a = document.createElement("a");
-     a.href = "prototype2.html";
-     a.click();
+     let StudentNumber = JSON.parse(localStorage.getItem('number'));
+       let restritAphabet = [...studentNumber].every(char => /[^A-Za-z]/.test(char));
+     if((studentNumber === null) || (studentNumber.length !== 9) || (!restritAphabet) || !(studentNumber.substring(0,2) == '22') ){
+       document.querySelector('#js-input').value = '';
+       console.log(studentNumber);
+     }
+     else{
+        var a = document.createElement("a");
+        a.href = "prototype2.html";
+        a.click();
+    }
       });
     }
 
