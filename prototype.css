@@ -7,13 +7,13 @@ body{
     background-color: white;
 }
 .protoLogo{
-    width: 100px;
+    width: 120px;
     margin-left: 120px;
     margin-bottom: 10px;
     border: solid 1px #999999;
 }
 .protoSc{
-     width: 200px;
+     width: 230px;
 }
 .details{
     width: 70px;
@@ -21,7 +21,7 @@ body{
 }
 
 .bodyCover{
-    margin-top:-30px ;
+    margin-top:-40px ;
     display: flex;
     justify-content: center;
 }
@@ -43,7 +43,7 @@ input,button,label{
    width:350px;
    padding-top: 2px;
    padding-bottom: 2px;
-   background-color: #663399;
+   background-color: #313178;
    color: white;
    font-size: 10px;
    border-radius: 4px;
@@ -51,7 +51,7 @@ input,button,label{
 }
 .student-number{
    font-weight:700;
-   font-size: 16px;
+   font-size: 13px;
 
 }
 .input-student-number{
@@ -62,6 +62,7 @@ input,button,label{
     border:inset 1.5px;
     border-radius: 3px;
     font-size: 15px;
+    box-shadow: 0px 0px 7px #0066CC;
     
     
 }
