@@ -22,6 +22,9 @@ body{
     width: 70px;
     margin-left:145px ;
 }
+.details2{
+    margin-left:140px ;
+}
 .bodyCover{
     margin-top:-50px ;
     display: flex;
@@ -75,7 +78,7 @@ input,button,label{
 .input-password{
     width: 40px;
     height: 10px;
-    margin-left: 148px;
+    margin-left: 154px;
     border:inset 1.5px;
     border-radius: 3px;
     border: solid 1px #999999;
@@ -114,7 +117,7 @@ button{
 }
 .Login-button{
     font-size: 17px;
-    margin-left: 144px;
+    margin-left: 140px;
     padding: 6px 60px 6px 15px;
 }
 .instruction{
