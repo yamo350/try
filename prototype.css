@@ -46,8 +46,9 @@ input,button,label{
    padding-bottom: 2px;
    background-color: #313178;
    color: white;
-   font-size: 10px;
+   font-size: 9px;
    border-radius: 4px;
+   font-weight: 700 ;
 
 }
 .student-number{
@@ -93,8 +94,7 @@ input,button,label{
 }
 .input-student-number:focus ,.input-student-number:hover ,.input-password:focus,.input-password:hover{
     outline: none;
-    border-color: #0066CC;
-    
+    border-color: #0066CC;   
 }
 .Notices{
     margin-top: 10px;
@@ -105,10 +105,11 @@ button{
     background-color: #007bff;
     border: none;
     margin-left: 147px;
-    font-size: 15px;
+    font-size: 14px;
     padding: 5px 5px ;
     border-radius: 4px;
     margin-bottom: 10px;
+   font-weight: 700 ;
 }
 .Login-button{
     font-size: 17px;
