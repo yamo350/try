@@ -73,7 +73,7 @@ input,button,label{
     font-size: 10px;
 }
 .input-password{
-    width: 50px;
+    width: 40px;
     height: 10px;
     margin-left: 148px;
     border:inset 1.5px;
@@ -115,7 +115,7 @@ button{
 .Login-button{
     font-size: 17px;
     margin-left: 144px;
-    padding: 6px 50px 6px 15px;
+    padding: 6px 60px 6px 15px;
 }
 .instruction{
     font-weight: 900;
