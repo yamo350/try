@@ -10,6 +10,7 @@ body{
     width: 100px;
     margin-left: 120px;
     margin-bottom: 10px;
+    border: solid 1px #999999;
 }
 .protoSc{
      width: 200px;
@@ -20,6 +21,7 @@ body{
 }
 
 .bodyCover{
+    margin-top:-30px ;
     display: flex;
     justify-content: center;
 }
@@ -53,7 +55,7 @@ input,button,label{
 
 }
 .input-student-number{
-    width: 140px;
+    width: 130px;
     height: 24px;
     margin-left: 104px;
     border-color: #999999;
