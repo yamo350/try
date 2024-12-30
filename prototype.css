@@ -8,7 +8,7 @@ body{
 }
 .protoLogo{
     width: 100px;
-    margin-left: 70px;
+    margin-left: 120px;
     margin-bottom: 10px;
 }
 .protoSc{
@@ -16,7 +16,7 @@ body{
 }
 .details{
     width: 70px;
-    margin-left:90px ;
+    margin-left:145px ;
 }
 
 .bodyCover{
@@ -31,16 +31,16 @@ body{
 .the-first-text{
    color:#663399;
    font-size: 7px;
-   
+   margin-top: -10px;
    font-weight: 800;
 }
 input,button,label{
     margin-bottom: 5px;
 }
 .long-bar-text{
-   width:250px;
-   padding-top: 4px;
-   padding-bottom: 4px;
+   width:350px;
+   padding-top: 2px;
+   padding-bottom: 2px;
    background-color: #663399;
    color: white;
    font-size: 10px;
@@ -55,7 +55,7 @@ input,button,label{
 .input-student-number{
     width: 140px;
     height: 24px;
-    margin-left: 54px;
+    margin-left: 104px;
     border-color: #999999;
     border:inset 1.5px;
     border-radius: 3px;
@@ -69,9 +69,9 @@ input,button,label{
     font-size: 10px;
 }
 .input-password{
-    width: 60px;
-    height: 13px;
-    margin-left: 94px;
+    width: 50px;
+    height: 10px;
+    margin-left: 148px;
     border-color: #999999;
     border:inset 1.5px;
     border-radius: 3px;
@@ -90,7 +90,7 @@ input,button,label{
     padding: 4px 10px;
     border-radius: 4px;
     width: 190px;
-    margin-left: 20px;
+    margin-left: 70px;
 }
 .input-student-number:focus ,.input-student-number:hover ,.input-password:focus,.input-password:hover{
     outline: none;
@@ -105,14 +105,15 @@ button{
     color: white;
     background-color: #007bff;
     border: none;
-    margin-left: 87px;
-    padding: 4px 4px ;
+    margin-left: 147px;
+    font-size: 15px;
+    padding: 5px 5px ;
     border-radius: 4px;
     margin-bottom: 10px;
 }
 .Login-button{
     font-size: 17px;
-    margin-left: 94px;
+    margin-left: 144px;
     padding: 6px 50px 6px 15px;
 }
 .instruction{
