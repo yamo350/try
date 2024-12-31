@@ -148,3 +148,10 @@ button{
       text-decoration: none;
       margin-right: 70px;
 }
+.Switch{
+    text-decoration: none;
+    background-color:whitesmoke ;
+    font-size: 12px;
+    color:#007bff;
+  
+}

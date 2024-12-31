@@ -30,8 +30,6 @@ window.toPageN = function toPageN(){
 let StudentNumber = JSON.parse(localStorage.getItem('number')) || '000000000';
 document.querySelector('.student-number-text').innerHTML = StudentNumber;
 document.querySelector('.student-number-value').value = StudentNumber;
-document.querySelector('.Sponser-textIndex').addEventListener(('click'),()=>{
-  var a = document.createElement("a");
-  a.href = "prototype3.html";
-  a.click();
-});
+
+
+
