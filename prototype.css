@@ -6,6 +6,12 @@ body{
     justify-content: center;
     background-color: white;
 }
+/*
+
+THIS IS ONLY MADE FOR STUDYING ONLY
+
+
+*/
 .protoLogo{
     width: 130px;
     margin-left: 120px;
@@ -24,6 +30,7 @@ body{
 }
 .details2{
     margin-left:140px ;
+    margin-top: 7px;
 }
 .bodyCover{
     margin-top:-50px ;
@@ -67,6 +74,10 @@ input,button,label{
     border:inset 1px;
     border-radius: 3px;
     font-size: 15px;
+}.input-student-numberProto{
+    height: 32px;
+    margin-left: 125px;
+    width: 100px;
 }
 .input-student-number:hover ,.input-password:hover{
     box-shadow: 0px 0px 7px #0066CC;
@@ -119,7 +130,21 @@ button{
     margin-left: 138px;
     padding: 6px 60px 6px 15px;
 }
+.Login-buttonProto{
+    font-size: 17px;
+    margin-left: 133px;
+    padding: 6px 68px 3px 27px;
+    
+}
 .instruction{
     font-weight: 900;
     font-size: 6px;
+}
+.instructionProto{
+    font-size: 10px;
+}
+.SwitchProto{
+    margin-top:2px ;
+      text-decoration: none;
+      margin-right: 70px;
 }
