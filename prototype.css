@@ -98,7 +98,7 @@ input,button,label{
     font-family: Arial, Helvetica, sans-serif;
 }
 .Sponsor-text{
-    background-color:whitesmoke ;
+    background-color:#dcdcdc ;
     font-size: 12px;
     color:#007bff;
     padding: 4px 10px;
@@ -141,7 +141,7 @@ button{
     font-size: 6px;
 }
 .instructionProto{
-    font-size: 10px;
+    font-size: 12px;
 }
 .SwitchProto{
     margin-top:2px ;
@@ -150,7 +150,6 @@ button{
 }
 .Switch{
     text-decoration: none;
-    background-color:whitesmoke ;
     font-size: 12px;
     color:#007bff;
   
