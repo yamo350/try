@@ -76,7 +76,7 @@ input,button,label{
     font-size: 15px;
 }.input-student-numberProto{
     height: 32px;
-    margin-left: 125px;
+    margin-left: 120px;
     width: 100px;
 }
 .input-student-number:hover ,.input-password:hover{
@@ -132,7 +132,7 @@ button{
 }
 .Login-buttonProto{
     font-size: 17px;
-    margin-left: 125px;
+    margin-left: 133px;
     padding: 6px 68px 3px 27px;
     
 }
